@@ -3,7 +3,7 @@ title: 子產業：Computer Hardware
 type: concept
 tags: [概念]
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-09-24
 sources: [2026-04-08_散熱_yfinance_sample.json, 2026-04-08_記憶體_yfinance_sample.json, 2026-04-08_量子電腦_yfinance_sample.json]
 ---
 

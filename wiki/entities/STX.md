@@ -3,7 +3,7 @@ title: STX
 type: entity
 tags: [股票代號, 標的]
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-09-24
 sources: [2026-04-08_記憶體_yfinance_sample.json]
 ---
 

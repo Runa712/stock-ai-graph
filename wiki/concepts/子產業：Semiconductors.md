@@ -3,7 +3,7 @@ title: 子產業：Semiconductors
 type: concept
 tags: [概念]
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-09-24
 sources: [2026-04-08_CPO／矽光子與光通訊_yfinance_sample.json, 2026-04-08_半導體_yfinance_sample.json, 2026-04-08_記憶體_yfinance_sample.json]
 ---
 

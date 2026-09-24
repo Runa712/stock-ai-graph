@@ -1,0 +1,67 @@
+{
+  "episode": "20260902 鄧哥日報",
+  "podcast_name": "鄧哥",
+  "date": "2026-09-02",
+  "insights": [
+    {
+      "type": "strategy",
+      "content": "外資期貨空單來到七萬九慢慢在減緩，散戶做空比連續兩天轉為負值，過去三個月少見訊號",
+      "tickers": [],
+      "key_points": ["strategy: 散戶做空比轉負值", "theme: 偏多看待"]
+    },
+    {
+      "type": "stock",
+      "content": "聯電(2303) 大型權值股動起來，屬於平台突破格局，盤後籌碼看起來都是加碼的",
+      "tickers": ["2303"],
+      "key_points": ["company: 聯電", "sector: 晶圓代工", "theme: 平台突破"]
+    },
+    {
+      "type": "stock",
+      "content": "家登(3680) 以家登為主，日月光跟家登兩者輪流，哪一個位置高了就賣掉一點換去比較低的做互換操作",
+      "tickers": ["3680"],
+      "key_points": ["company: 家登", "sector: 台積電供應鏈", "strategy: 輪動互換"]
+    },
+    {
+      "type": "stock",
+      "content": "精測(6510) 籌碼面看到永豐金中壢、第一金高雄也有進場，400張大戶有增持",
+      "tickers": ["6510"],
+      "key_points": ["company: 精測", "branch: 永豐金中壢/第一金高雄", "sector: IC封測"]
+    },
+    {
+      "type": "stock",
+      "content": "穎崴(6515) 位置特別：合理估值7000目前股價就在合理估值附近，年增營收233%/155%/287%",
+      "tickers": ["6515"],
+      "key_points": ["company: 穎崴", "valuation: 合理7000", "sector: IC封測"]
+    },
+    {
+      "type": "sector",
+      "content": "矽晶圓三雄：嘉晶(3016)、漢磊(3707)、環球晶(6488) 三個放一起看",
+      "tickers": ["3016", "3707", "6488"],
+      "key_points": ["sector: 矽晶圓", "theme: 族群聯動"]
+    },
+    {
+      "type": "stock",
+      "content": "中砂(1560)：再生晶片跟成熟製程，鑽石碟會跟FOPLP相關，與聯電集團有關",
+      "tickers": ["1560"],
+      "key_points": ["company: 中砂", "theme: 鑽石碟/FOPLP", "sector: 再生晶圓"]
+    },
+    {
+      "type": "stock",
+      "content": "華泰(2329)：掉到合理價47之下但營收趨勢不見了",
+      "tickers": ["2329"],
+      "key_points": ["company: 華泰", "valuation: 合理47", "theme: 營收趨勢消失"]
+    },
+    {
+      "type": "stock",
+      "content": "立碁(8111)：策略第一名，上週五回檔又上來，不是賺錢的公司只能少量操作",
+      "tickers": ["8111"],
+      "key_points": ["company: 立碁", "theme: 只能少量操作"]
+    },
+    {
+      "type": "strategy",
+      "content": "光通、散熱漲高的不要去追，資金回到低位階的標的會是比較舒服的做法",
+      "tickers": [],
+      "key_points": ["strategy: 不追高", "theme: 低位階"]
+    }
+  ]
+}

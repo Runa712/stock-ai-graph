@@ -3,7 +3,7 @@ title: yfinance
 type: entity
 tags: [來源, 資料源]
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-09-24
 sources: [2026-04-08_CPO／矽光子與光通訊_yfinance_sample.json, 2026-04-08_半導體_yfinance_sample.json, 2026-04-08_散熱_yfinance_sample.json, 2026-04-08_記憶體_yfinance_sample.json, 2026-04-08_量子電腦_yfinance_sample.json, 2026-04-08_電動車_yfinance_sample.json]
 ---
 

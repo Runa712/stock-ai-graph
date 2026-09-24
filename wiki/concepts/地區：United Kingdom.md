@@ -3,7 +3,7 @@ title: 地區：United Kingdom
 type: concept
 tags: [概念]
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-09-24
 sources: [2026-04-08_半導體_yfinance_sample.json]
 ---
 

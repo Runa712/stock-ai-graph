@@ -2,8 +2,8 @@
 title: 電動車 產業觀察樣本
 type: source
 tags: [yfinance, 來源摘要, 主題：電動車, 個股觀察, 地區：China]
-created: 2026-04-08
-updated: 2026-04-08
+created: 2026-09-24
+updated: 2026-09-24
 sources: [2026-04-08_電動車_yfinance_sample.json]
 ---
 # 電動車 產業觀察樣本

@@ -1,0 +1,121 @@
+{
+  "episode": "20260918 講者週報",
+  "podcast_name": "鄧哥",
+  "date": "2026-09-18",
+  "insights": [
+    {
+      "type": "strategy",
+      "content": "本週核心「強者恆強」：大盤不好時看主力籌碼買超、主動式基金盯盤、外資投信連買的標的",
+      "tickers": [],
+      "key_points": ["strategy: 強者恆強", "theme: 籌碼面"]
+    },
+    {
+      "type": "sector",
+      "content": "ASIC 不是今天才講，大概一兩個月之前就一直重複提醒，今年下半年一定要看",
+      "tickers": ["3006", "2455", "2492"],
+      "key_points": ["sector: ASIC", "theme: 下半年主軸"]
+    },
+    {
+      "type": "sector",
+      "content": "成熟製程會出現：3060 在重賣上一個世代顯示卡，DDR3 重新啟動，成熟製程肯定會動",
+      "tickers": ["5347", "2303", "2408"],
+      "key_points": ["sector: 成熟製程", "theme: DDR3重啟"]
+    },
+    {
+      "type": "stock",
+      "content": "聯電：124合理估值，160到了昂貴價，富邦新店又買，來到這相對有賣壓",
+      "tickers": ["2303"],
+      "key_points": ["company: 聯電", "branch: 9666 富邦-南屯", "valuation: 合理124/昂貴160"]
+    },
+    {
+      "type": "stock",
+      "content": "聯電可轉債二跟三溢價率都在25-24%，大家發現聯電二貴了就賣二買一",
+      "tickers": ["2303"],
+      "key_points": ["company: 聯電", "cb_pattern: 聯電二/三", "theme: 溢價率25%"]
+    },
+    {
+      "type": "stock",
+      "content": "穎崴(6515)：合理估值7000，目前股價就在合理估值附近，年增233%/155%/287%",
+      "tickers": ["6515"],
+      "key_points": ["company: 穎崴", "valuation: 合理7000", "sector: IC封測"]
+    },
+    {
+      "type": "stock",
+      "content": "精測(6510)：永豐金中壢、第一金高雄也進場，股價在合理估值之上",
+      "tickers": ["6510"],
+      "key_points": ["company: 精測", "branch: 永豐金中壢/第一金高雄", "sector: IC封測"]
+    },
+    {
+      "type": "stock",
+      "content": "旺矽(6223)：封測四雄之首，主動式基金首選",
+      "tickers": ["6223"],
+      "key_points": ["company: 旺矽", "sector: IC封測", "theme: 主動式基金首選"]
+    },
+    {
+      "type": "stock",
+      "content": "雍智科技(6683)：封測四雄，可轉債可參考，賺錢公司回到月線勾腳",
+      "tickers": ["6683"],
+      "key_points": ["company: 雍智科技", "sector: IC封測", "theme: 可轉債"]
+    },
+    {
+      "type": "stock",
+      "content": "盟立(2464)：機器人題材，新發可轉債，但溢價率42%很貴，超過130張數縮小",
+      "tickers": ["2464"],
+      "key_points": ["company: 盟立", "sector: 機器人", "cb_premium: 42%", "valuation: 最高估值"]
+    },
+    {
+      "type": "stock",
+      "content": "華邦電(2344)：發債擴充產能研發先進製程，不是還債，是正面題材",
+      "tickers": ["2344"],
+      "key_points": ["company: 華邦電", "theme: 發債=正面"]
+    },
+    {
+      "type": "stock",
+      "content": "群聯(8299)：族群續航力不強，跟著玩就好，拉回再上去再說",
+      "tickers": ["8299"],
+      "key_points": ["company: 群聯", "sector: 記憶體", "theme: 續航力不強"]
+    },
+    {
+      "type": "stock",
+      "content": "華星光(4979)：漲停，籌碼集中OK，但可轉債賣300元很誇張",
+      "tickers": ["4979"],
+      "key_points": ["company: 華星光", "theme: 可轉債300貴"]
+    },
+    {
+      "type": "stock",
+      "content": "美律(2439)：台中人一直買，等營收年增第一根漲停再做",
+      "tickers": ["2439"],
+      "key_points": ["company: 美律", "branch: 台中人", "theme: 等營收年增漲停"]
+    },
+    {
+      "type": "stock",
+      "content": "嘉晶(3016)：台中人買很多，平台突破",
+      "tickers": ["3016"],
+      "key_points": ["company: 嘉晶", "branch: 台中人", "sector: 矽晶圓"]
+    },
+    {
+      "type": "stock",
+      "content": "辛耘(3583)：位置OK，合理估值536目前688，在合理往上走的區段",
+      "tickers": ["3583"],
+      "key_points": ["company: 辛耘", "valuation: 合理536/目前688", "sector: IC-代工"]
+    },
+    {
+      "type": "stock",
+      "content": "漢磊(3707)：矽晶圓三雄之一，嘉晶漢磊環球晶三個放一起看",
+      "tickers": ["3707"],
+      "key_points": ["company: 漢磊", "sector: 矽晶圓"]
+    },
+    {
+      "type": "stock",
+      "content": "環球晶(6488)：矽晶圓三雄之一，活潑度比嘉晶差",
+      "tickers": ["6488"],
+      "key_points": ["company: 環球晶", "sector: 矽晶圓"]
+    },
+    {
+      "type": "stock",
+      "content": "創意(3443)：強者恆強，大盤殺盤後外資投信仍在買，週五漲停",
+      "tickers": ["3443"],
+      "key_points": ["company: 創意", "theme: 強者恆強"]
+    }
+  ]
+}

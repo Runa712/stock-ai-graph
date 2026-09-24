@@ -2,8 +2,8 @@
 title: 散熱 產業觀察樣本
 type: source
 tags: [yfinance, 來源摘要, 主題：散熱, 個股觀察, 地區：Taiwan]
-created: 2026-04-08
-updated: 2026-04-08
+created: 2026-09-24
+updated: 2026-09-24
 sources: [2026-04-08_散熱_yfinance_sample.json]
 ---
 # 散熱 產業觀察樣本

@@ -2,8 +2,8 @@
 title: CPO／矽光子與光通訊 產業觀察樣本
 type: source
 tags: [yfinance, 來源摘要, 主題：CPO／矽光子與光通訊, 個股觀察, 地區：Taiwan]
-created: 2026-04-08
-updated: 2026-04-08
+created: 2026-09-24
+updated: 2026-09-24
 sources: [2026-04-08_CPO／矽光子與光通訊_yfinance_sample.json]
 ---
 # CPO／矽光子與光通訊 產業觀察樣本

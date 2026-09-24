@@ -2,8 +2,8 @@
 title: 量子電腦 產業觀察樣本
 type: source
 tags: [yfinance, 來源摘要, 主題：量子電腦, 個股觀察, 地區：United States]
-created: 2026-04-08
-updated: 2026-04-08
+created: 2026-09-24
+updated: 2026-09-24
 sources: [2026-04-08_量子電腦_yfinance_sample.json]
 ---
 # 量子電腦 產業觀察樣本
